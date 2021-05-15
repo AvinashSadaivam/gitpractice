@@ -1,9 +1,0 @@
-second line
- HEAD
-changing file for conflict`
-
-
-four
-super
-eature br
-hi ew file
