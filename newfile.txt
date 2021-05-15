@@ -1,4 +1,4 @@
 second line
-
+changing file for conflict`
 eature br
 hi ew file
